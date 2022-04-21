@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  
+}
+.starpackage{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 40px;
+  &-rating{
+font-size: 30px;
+padding: 10px;
+color: yellowgreen;
+}
+}
+.over{
+  color: black;
+}
