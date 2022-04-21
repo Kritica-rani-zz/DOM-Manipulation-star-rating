@@ -1,7 +1,7 @@
 {
-  "name": "star-rating-system",
+  "name": "dom-manipulation",
   "version": "1.0.0",
-  "description": "",
+  "description": "LEARNING JS",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
